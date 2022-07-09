@@ -1,1 +1,3 @@
-# Odin-Project-Hangman
+# Project: Hangman
+
+### [Guideline](https://www.theodinproject.com/lessons/ruby-hangman)
